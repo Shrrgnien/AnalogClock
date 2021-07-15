@@ -7,3 +7,12 @@ C:\Users\Croatoan\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csp
 C:\Users\Croatoan\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.CoreCompileInputs.cache
 C:\Users\Croatoan\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
 C:\Users\Croatoan\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
+D:\source\repos\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe.config
+D:\source\repos\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe
+D:\source\repos\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
+D:\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.AssemblyReference.cache
+D:\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+D:\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.cache
+D:\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.CoreCompileInputs.cache
+D:\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+D:\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
